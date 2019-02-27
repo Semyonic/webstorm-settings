@@ -1,3 +1,14 @@
 <application>
+  <component name="BitbucketCloudRegistry">
+    <lookup />
+  </component>
+  <component name="BitbucketServerRegistry">
+    <instances>
+      <instance uuid="55662b5f-6a2d-36d8-a250-3b7dc2cb67bb" baseUri="http://bitbucket.etiya.com/" />
+    </instances>
+    <lookup>
+      <record scheme="ssh" hostname="bitbucket.etiya.com" port="7999" path="/" uuid="55662b5f-6a2d-36d8-a250-3b7dc2cb67bb" />
+    </lookup>
+  </component>
   <component name="Instance" id="87de521c-8ed7-4be1-93d8-7bc09e3d3bef" version="6.3" />
 </application>
