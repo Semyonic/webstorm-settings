@@ -1,0 +1,16 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="Encoding" addBOMForNewFiles="with NO BOM" />
+      <component name="PropertiesComponent">
+        <property name="ACTIVE_CLOUD_PROJECT_ACCOUNT" value="semionay@gmail.com" />
+        <property name="ACTIVE_CLOUD_PROJECT_ID" value="semih-website" />
+        <property name="ACTIVE_CLOUD_PROJECT_NAME" value="semih-website" />
+        <property name="ACTIVE_CLOUD_PROJECT_NUMBER" value="931553688248" />
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+        <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+      </component>
+    </defaultProject>
+  </component>
+</application>

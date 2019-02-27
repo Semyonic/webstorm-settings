@@ -1,0 +1,14 @@
+<application>
+  <component name="sonarServers">
+    <option name="beans">
+      <list>
+        <SonarServerConfig>
+          <option name="hostUrl" value="https://qualityserver.etiya.com" />
+          <option name="name" value="Etiya" />
+          <option name="passwordChanged" value="true" />
+          <option name="user" value="semih.onay@etiya.com" />
+        </SonarServerConfig>
+      </list>
+    </option>
+  </component>
+</application>

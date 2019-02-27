@@ -1,0 +1,139 @@
+<application>
+  <component name="sonar-resources-application-component">
+    <option name="sonarResourcesBySonarServerName">
+      <map>
+        <entry key="Etiya">
+          <value>
+            <list>
+              <Resource>
+                <option name="key" value="Bookmark-RIM-Backend-Develop" />
+                <option name="name" value="Bookmark-RIM-Backend-Develop" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="dev:BMRIMUI" />
+                <option name="name" value="Bookmark-RIM-Frontend-Develop" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="dev:dceAdminUi" />
+                <option name="name" value="Ecommerce-Admin-UI-Develop" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="dev:ecommerceFrontend" />
+                <option name="name" value="Ecommerce-CSRUI-Develop" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="dev:dceCustomerUi" />
+                <option name="name" value="Ecommerce-Customer-UI-Develop" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="etiya.engine.loyalty:LoyaltyEngine" />
+                <option name="name" value="LOYALTY-Engine-Develop-LoyaltyEngine" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="d1-dev:MarvelAdminUi" />
+                <option name="name" value="MARVEL-Admin-Ui-D1-Dev" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="MARVEL-BSS-Backend-D1-Dev" />
+                <option name="name" value="MARVEL-BSS-Backend-D1-Dev" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="MARVEL-Csr-Ui-D1-Dev" />
+                <option name="name" value="MARVEL-Csr-Ui-D1-Dev" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="MARVEL-EOM-Backend-D1-Dev" />
+                <option name="name" value="MARVEL-EOM-Backend-D1-Dev" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="MARVEL-EOM-Engine-D1-Dev" />
+                <option name="name" value="MARVEL-EOM-Engine-D1-Dev" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="MARVEL-EOM-Extension-D1-Dev" />
+                <option name="name" value="MARVEL-EOM-Extension-D1-Dev" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="MARVEL-EOM-Frontend-D1-Dev" />
+                <option name="name" value="MARVEL-EOM-Frontend-D1-Dev" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="MARVEL-EOM-JE-D1-Dev" />
+                <option name="name" value="MARVEL-EOM-JE-D1-Dev" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="MARVEL-NGXCEED-Develop" />
+                <option name="name" value="MARVEL-Etiya-NGXCEED-Develop" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="MARVEL-Etiya-UIKIT-Master" />
+                <option name="name" value="MARVEL-Etiya-UIKIT-Master" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="MARVEL-Etiya-UIKIT-Test" />
+                <option name="name" value="MARVEL-Etiya-UIKIT-Test" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="MARVEL-Loyalty-Engine-D1-Dev" />
+                <option name="name" value="MARVEL-Loyalty-Engine-D1-Dev" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="MARVEL-Ntf-Engine-D1-Dev" />
+                <option name="name" value="MARVEL-Ntf-Engine-D1-Dev" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="MARVEL-Rule-Engine-D1-OS-Dev" />
+                <option name="name" value="MARVEL-Rule-Engine-D1-OS-Dev" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="MARVEL-Rule-Engine-UI-D1-OS-Dev" />
+                <option name="name" value="MARVEL-Rule-Engine-UI-D1-OS-Dev" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="MARVEL-UIKIT-Master" />
+                <option name="name" value="MARVEL-UIKIT-master" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="MARVEL-Wsc-Ui-D1-Dev" />
+                <option name="name" value="MARVEL-Wsc-Ui-D1-Dev" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="etiya.engine.notification:NtfEngine" />
+                <option name="name" value="NTF-Engine-Develop-NtfEngine" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+              <Resource>
+                <option name="key" value="etiya.commerce.core.trunk.backend:CommerceRoot" />
+                <option name="name" value="etiya.commerce.core.trunk.backend:CommerceRoot" />
+                <option name="qualifier" value="TRK" />
+              </Resource>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,30 @@
+<application>
+  <component name="libraryTable">
+    <library name="@types/bootstrap" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="html5shiv" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_oss.maxcdn.com_html5shiv_3.7.2_html5shiv.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_oss.maxcdn.com_html5shiv_3.7.2_html5shiv.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="respond" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_oss.maxcdn.com_respond_1.4.2_respond.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_oss.maxcdn.com_respond_1.4.2_respond.min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>

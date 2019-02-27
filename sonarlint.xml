@@ -1,0 +1,20 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="fileExclusions">
+      <list>
+        <option value="**/node_modules/**" />
+      </list>
+    </option>
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://qualityserver.etiya.com" />
+          <option name="name" value="Etiya" />
+          <option name="login" value="semih.onay@etiya.com" />
+          <password>dfe9dfcddfd3dff9dfc7df98df9ddfe9df8b</password>
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>

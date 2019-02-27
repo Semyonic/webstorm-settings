@@ -1,0 +1,49 @@
+<application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="http://semih.onay%40etiya.com@bitbucket.etiya.com/scm/dce/customer-ui.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://etiya.com@bitbucket.etiya.com" />
+          <option name="userName" value="semih.onay" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://semih.onay%40etiya.com@bitbucket.etiya.com/scm/dce/csr-ui.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://semih.onay%40etiya.com@bitbucket.etiya.com/scm/dce/dce-admin-ui.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Semyonic/ngxs-reset-plugin.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ng-turkey/ngxs-reset-plugin.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@bitbucket.etiya.com:7999/mar/marvel-csr-ui.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@bitbucket.etiya.com:7999/mar/ngxceed.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@bitbucket.etiya.com:7999/mar/marvel-wsc-ui.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+      </list>
+    </option>
+    <option name="cloneParentDir" value="$USER_HOME$/Desktop/Etiya/Marvel/Frontend" />
+  </component>
+  <component name="Vcs.Log.App.Settings">
+    <option name="SHOW_TAG_NAMES" value="true" />
+    <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
+  </component>
+</application>
