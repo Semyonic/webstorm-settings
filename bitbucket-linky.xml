@@ -4,10 +4,10 @@
   </component>
   <component name="BitbucketServerRegistry">
     <instances>
-      <instance uuid="55662b5f-6a2d-36d8-a250-3b7dc2cb67bb" baseUri="http://bitbucket.etiya.com/" />
+      <instance uuid="c372020f-fa77-39de-afae-dac13194090f" baseUri="http://bitbucket.etiya.com:80/" />
     </instances>
     <lookup>
-      <record scheme="ssh" hostname="bitbucket.etiya.com" port="7999" path="/" uuid="55662b5f-6a2d-36d8-a250-3b7dc2cb67bb" />
+      <record scheme="ssh" hostname="bitbucket.etiya.com" port="7999" path="/" uuid="c372020f-fa77-39de-afae-dac13194090f" />
     </lookup>
   </component>
   <component name="Instance" id="87de521c-8ed7-4be1-93d8-7bc09e3d3bef" version="6.3" />
