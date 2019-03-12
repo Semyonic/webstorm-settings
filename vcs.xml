@@ -42,6 +42,10 @@
           <option name="url" value="https://gitlab.com/Semyonic/ofisim-ik-reporter-bot.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/mehmet-erim/nestjs-mysql-api.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Desktop" />
