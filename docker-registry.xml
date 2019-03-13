@@ -1,9 +1,0 @@
-<application>
-  <component name="DockerRegistry">
-    <DockerRegistry email="semih.onay@bilgiedu.net">
-      <option name="address" value="registry.hub.docker.com" />
-      <option name="name" value="Docker Registry" />
-      <option name="username" value="semyonic" />
-    </DockerRegistry>
-  </component>
-</application>

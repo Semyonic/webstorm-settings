@@ -1,7 +1,0 @@
-<templateSet group="Ngxc">
-  <template name="xcFor" value="*xcFor=&quot;let card of creditCards; trackBy: trackByFn&quot;" description="" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="HTML" value="true" />
-    </context>
-  </template>
-</templateSet>
