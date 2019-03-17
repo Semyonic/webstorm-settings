@@ -1,0 +1,6 @@
+<application>
+  <component name="CrucibleSettings">
+    <option name="SERVER_URL" value="http://bitbucket.etiya.com/" />
+    <option name="USERNAME" value="semih.onay@etiya.com" />
+  </component>
+</application>
