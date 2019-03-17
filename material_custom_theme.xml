@@ -8,7 +8,8 @@
     <option name="buttonColor" value="2e3c43" />
     <option name="selectionForegroundColor" value="ffffff" />
     <option name="selectionBackgroundColor" value="546e7a" />
-    <option name="textColor" value="607d8b" />
-    <option name="foregroundColor" value="b0bec5" />
+    <option name="textColor" value="222222" />
+    <option name="foregroundColor" value="222222" />
+    <option name="backgroundColor" value="222222" />
   </component>
 </application>
